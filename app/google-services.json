@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "1034666440088",
+    "firebase_url": "https://percent-quiz222.firebaseio.com",
+    "project_id": "percent-quiz222",
+    "storage_bucket": "percent-quiz222.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1034666440088:android:12b31c356d5372bbf767ed",
+        "android_client_info": {
+          "package_name": "com.hitokarakishin.percentagequiz"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1034666440088-v83kmrs1g4223mvijivm0gk7r5qhnqo9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD-oAhQq-WCcnI1Ru6EKKoN_fGawnjrFLU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1034666440088-v83kmrs1g4223mvijivm0gk7r5qhnqo9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
